@@ -1,4 +1,4 @@
----
+--- 
 id: icon
 title: Icon
 ---
@@ -260,7 +260,7 @@ underlayColor for press event
 
 |  Type  |  Default   |
 | :----: | :--------: |
-| string | icon color |
+| string | icon color | 
 
 ---
 
